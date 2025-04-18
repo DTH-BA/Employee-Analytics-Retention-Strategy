@@ -40,4 +40,6 @@ This project simulates a real-world HR business case in which data is used to in
 
 ![Salary by Race](https://raw.githubusercontent.com/DTH-BA/Employee-Analytics-Retention-Strategy/refs/heads/main/images/Salary_by_Race.png)
 
+![Retention Risk Table](https://raw.githubusercontent.com/DTH-BA/Employee-Analytics-Retention-Strategy/refs/heads/main/images/Retention%20Risk%20Table.png)
+
 ## 📂 Project Structure
