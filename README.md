@@ -34,6 +34,12 @@ This project simulates a real-world HR business case in which data is used to in
 
 ## 📸 Visual Highlights
 
-> *(Insert screenshots here from your notebook: salary by department, performance vs salary, retention risk table, etc.)*
+![image](https://github.com/user-attachments/assets/752d822f-c0db-4287-8e0d-c51026140924)
+
+![image](https://github.com/user-attachments/assets/7cde798c-7e24-42ad-bc91-9f5cd632bffa)
+
+![image](https://github.com/user-attachments/assets/ec8f841d-734b-45d0-b1bd-10b9450acc41)
+
+![image](https://github.com/user-attachments/assets/7a63b370-6f70-4b42-844f-45b6f9633e8d)
 
 ## 📂 Project Structure
