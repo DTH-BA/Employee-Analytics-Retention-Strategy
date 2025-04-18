@@ -36,4 +36,6 @@ This project simulates a real-world HR business case in which data is used to in
 
 ![Salary by Department](https://raw.githubusercontent.com/DTH-BA/Employee-Analytics-Retention-Strategy/refs/heads/main/images/imagessalary_by_department.png.png)
 
+![Gender by Department](https://raw.githubusercontent.com/DTH-BA/Employee-Analytics-Retention-Strategy/refs/heads/main/images/Gender_by_department.png.png)
+
 ## 📂 Project Structure
