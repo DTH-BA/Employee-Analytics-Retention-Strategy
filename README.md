@@ -36,6 +36,6 @@ This project simulates a real-world HR business case in which data is used to in
 
 ### 📊 Salary by Department
 
-![Salary by Department](images/salary_by_department.png)
+![Salary by Department]
 
 ## 📂 Project Structure
