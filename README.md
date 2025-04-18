@@ -15,7 +15,7 @@ This project simulates a real-world HR business case in which data is used to in
 - **Language:** Python
 - **Libraries:** pandas, matplotlib, seaborn
 - **Environment:** Jupyter Notebook
-- **Data Source:** HRDataset_v14.csv (anonymized internal HR dataset)
+- **Data Source:** HRDataset_v14.csv ([anonymized internal HR dataset](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set))
 
 ## 🧠 Key Insights
 
